@@ -150,10 +150,11 @@
   padding: 100px 0 120px;
   background-image: url(../images/background_reservation.svg);
   background-color: #d9e7ff;
+  color: #000000;
 }
 
 .reservation__title {
-  margin-bottom: 0 0 80px;
+  margin: 0 auto 80px;
   text-align: center;
   font-family: "Inter", "Arial", sans-serif;
   font-weight: 500;
