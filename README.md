@@ -23,6 +23,7 @@ Coffeeshop in a library, with navigation links and video embedding.
 - Flat BEM file structure
 - A custom form
 - CSS animation and transform
+- Form on the Webpage
 
 ## Techniques
 
@@ -32,8 +33,8 @@ Coffeeshop in a library, with navigation links and video embedding.
 - The navigation bar menu is styled using flexbox
 - href and id class utilized for links
 - iframe is used to add video content.
+- input text, fieldset, labels, and button on form
 
 ## Plan on improving the project
 
-- animation
-- SEO
+- add a menu and items to the menu
