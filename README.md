@@ -24,6 +24,8 @@ Coffeeshop in a library, with navigation links and video embedding.
 - A custom form
 - CSS animation and transform
 - Form on the Webpage
+- Animation in the pulsate block
+- Implementation of @keyframes at-rule.
 
 ## Techniques
 
@@ -37,4 +39,4 @@ Coffeeshop in a library, with navigation links and video embedding.
 
 ## Plan on improving the project
 
-- add a menu and items to the menu
+- None
