@@ -33,7 +33,6 @@
   line-height: 52px;
   color: white;
   max-width: 70%;
-  text-align: center;
 }
 
 .about__content {
@@ -43,7 +42,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  margin: 0 173px 0;
+  margin-top: 19px;
   max-width: 606px;
 }
 

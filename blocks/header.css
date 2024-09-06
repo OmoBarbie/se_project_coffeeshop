@@ -9,6 +9,7 @@
   position: relative;
   min-height: 720px;
   max-height: 800px;
+  z-index: -1;
 }
 
 .header__image {
@@ -27,6 +28,7 @@
   line-height: 72px;
   letter-spacing: -0.6px;
   max-width: 729px;
+  z-index: 1;
 }
 
 .header__span-accent {
