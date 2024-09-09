@@ -19,20 +19,19 @@
   display: flex;
   justify-content: space-between;
   padding: 100px 88px 173px;
-  z-index: 5;
   align-items: flex-start;
 }
 
 .about__title {
-  top: 50px;
-  left: 50px;
-  z-index: 10;
   margin: 0;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
   color: white;
-  max-width: 70%;
+  max-width: 251px;
+  font-family: "Inter", Arial, sans-serif;
+  z-index: 1;
+  padding: 0;
 }
 
 .about__content {
@@ -43,11 +42,12 @@
   flex-direction: column;
   align-items: flex-start;
   margin-top: 19px;
-  max-width: 606px;
+  max-width: 660px;
 }
 
 .about__paragraph {
   margin-bottom: 20px;
+  font-family: "Noto Serif", "Times New Roman", serif;
 }
 
 .about__paragraph:last-child {
@@ -60,9 +60,8 @@
   width: 426px;
   height: 426px;
   position: absolute;
-  top: -120px;
-  left: -100px;
-  z-index: 1;
+  top: -152px;
+  left: -129px;
   border: none;
 }
 

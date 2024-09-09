@@ -3,6 +3,8 @@
   background-image: url(../images/background_reservation.svg);
   background-color: #d9e7ff;
   color: #000000;
+  background-position: center;
+  background-size: cover;
 }
 
 .reservation__title {

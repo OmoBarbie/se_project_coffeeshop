@@ -41,6 +41,7 @@ form {
   line-height: 20px;
   background-color: #1878dc;
   color: #ffffff;
+  border-radius: 4px;
 }
 
 .form__button:hover {

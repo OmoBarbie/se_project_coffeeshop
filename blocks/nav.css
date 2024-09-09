@@ -1,17 +1,22 @@
 .nav {
   display: flex;
   justify-content: space-between;
+  position: relative;
 }
 
 .nav__logo {
-  position: relative;
+  position: absolute;
+  height: 39px;
+  width: 105px;
+  left: -50px;
 }
 
 .nav__links {
   display: flex;
   list-style-type: none;
   gap: 20px;
-  margin: 0;
+  margin: 0 0 0 auto;
+  padding-left: 0;
 }
 
 .nav__link {
