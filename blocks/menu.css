@@ -4,6 +4,7 @@
   background-image: url(../images/background_menu.svg);
   position: relative;
   background-position: center;
+  background-size: cover;
 }
 
 .menu__title {
